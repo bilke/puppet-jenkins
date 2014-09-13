@@ -1,3 +1,7 @@
+# NOTE: This project has moved
+
+The `puppet-jenkins` module has moved into the boxen organization: https://github.com/boxen/puppet-jenkins, where future development will happen. Please use that repo as your canonical source for this project.
+
 # Jenkins Puppet Module for Boxen
 
 [![Build Status](https://travis-ci.org/boxen/puppet-jenkins.png?branch=master)](https://travis-ci.org/boxen/puppet-jenkins)
